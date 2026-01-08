@@ -5,3 +5,7 @@
 
 # Day-2
 -15 Basic programs using main method and some mathematical logics.
+
+# Day-3 
+- java blocks practice programs
+  
