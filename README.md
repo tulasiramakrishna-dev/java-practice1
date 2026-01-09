@@ -14,3 +14,8 @@
   
 # Day-05
 - Decision making statements in java practice programs.
+1. if statement
+2. else if statement
+3. if else if ladder
+4. nested if
+5. switch case
