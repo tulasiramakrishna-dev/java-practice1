@@ -8,4 +8,7 @@
 
 # Day-3 
 - java blocks practice programs
+
+# Day-4
+- Operators in java practice programs
   
